@@ -71,10 +71,7 @@ Both improved after filtering; LogReg won both times — linear models suit spar
 
 ## Dashboard
 
-```bash
-cd dashboard
-pip install -r requirements.txt
-streamlit run app.py
+```
 ```
 4 tabs: Overview · Model Performance · Aspect Analysis · Patch Timeline.
 
@@ -93,9 +90,4 @@ streamlit run app.py
 
 `Python` `pandas` `scikit-learn` `XGBoost` `Sastrawi` `Streamlit` `matplotlib` `seaborn` `kagglehub`
 
----
-
-## Author
-
-[Nama Lu] — Data Analyst · [LinkedIn] · [GitHub] · [Portfolio]
 
