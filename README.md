@@ -72,6 +72,11 @@ Both improved after filtering; LogReg won both times — linear models suit spar
 ## Dashboard
 
 ```
+https://github.com/FannyWahyuAprilia/Sentiment-Analysis-Mobile-Legend-App/blob/main/Wordcloud%205%20Aspek.png
+https://github.com/FannyWahyuAprilia/Sentiment-Analysis-Mobile-Legend-App/blob/main/Review%20per%20Aspek%20ML.png
+https://github.com/FannyWahyuAprilia/Sentiment-Analysis-Mobile-Legend-App/blob/main/Patch%20Timeline%20Sentimen%20Negatif.png
+https://github.com/FannyWahyuAprilia/Sentiment-Analysis-Mobile-Legend-App/blob/main/Heatmap%20Aspek.png
+https://github.com/FannyWahyuAprilia/Sentiment-Analysis-Mobile-Legend-App/blob/main/Aspek%20vs%20Versi%20ML%20(Sentimen%20Negatif).png
 ```
 4 tabs: Overview · Model Performance · Aspect Analysis · Patch Timeline.
 
